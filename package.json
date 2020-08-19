@@ -1,0 +1,28 @@
+{
+  "name": "@ulugbekov/react_action_cable",
+  "version": "0.0.1",
+  "description": "React Support for ActionCable",
+  "author": "Alisher Ulugbekov",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ulugbekov/react_action_cable.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulugbekov/react_action_cable/issues"
+  },
+  "homepage": "https://github.com/ulugbekov/react_action_cable",
+  "scripts": {
+    "test": "echo passing"
+  },
+  "keywords": [
+    "rails",
+    "actioncable",
+    "websockets"
+  ],
+  "dependencies": {
+    "actioncable": "^5.2.4-3",
+    "react": "^16.13.1"
+  }
+}
