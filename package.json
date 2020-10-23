@@ -1,6 +1,6 @@
 {
   "name": "@ulugbekov/react_action_cable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Support for ActionCable",
   "author": "Alisher Ulugbekov",
   "main": "index.js",
@@ -23,6 +23,6 @@
   ],
   "dependencies": {
     "actioncable": "^5.2.4-3",
-    "react": "^16.13.1"
+    "react": "^16.8.6"
   }
 }
